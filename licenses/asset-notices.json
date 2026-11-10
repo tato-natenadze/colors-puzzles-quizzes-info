@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T00:46:18.864Z",
+  "checkedAt": "2026-11-10T00:53:15.186Z",
   "publicUrl": "https://tato-natenadze.github.io/colors-puzzles-quizzes-info/credits.html",
   "coats": [
     {
@@ -4318,7 +4318,13 @@
       "file": "Apache-2.0.txt"
     },
     {
-      "name": "Ionicons / Expo Vector Icons",
+      "name": "Ionicons",
+      "copyright": "Copyright (c) 2015-present Ionic (http://ionic.io/)",
+      "license": "MIT",
+      "file": "Ionicons-MIT.txt"
+    },
+    {
+      "name": "Expo Vector Icons integration",
       "copyright": "Copyright (c) 2015 Joel Arvidsson; Copyright (c) 2020 650 Industries.",
       "license": "MIT",
       "file": "Expo-Vector-Icons-MIT.txt"

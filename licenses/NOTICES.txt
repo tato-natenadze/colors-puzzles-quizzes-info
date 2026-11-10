@@ -420,7 +420,12 @@ Copyright 2011 Google Inc. All Rights Reserved.
 Christian Robertson
 Apache License 2.0; full text: Apache-2.0.txt
 
-Ionicons / Expo Vector Icons
+Ionicons
+Copyright (c) 2015-present Ionic (http://ionic.io/)
+
+MIT; full text: Ionicons-MIT.txt
+
+Expo Vector Icons integration
 Copyright (c) 2015 Joel Arvidsson; Copyright (c) 2020 650 Industries.
 
 MIT; full text: Expo-Vector-Icons-MIT.txt
