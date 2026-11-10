@@ -1,0 +1,426 @@
+Colors, Puzzles, Quizzes — Sources and licenses
+
+Individual CC BY-SA artwork assets remain licensed under their original CC BY-SA version, including any adaptation in the PNG. Third-party asset licenses do not license the application code, paid functions, other artwork, or user data. No endorsement by a country, government, author or data provider is claimed.
+
+COUNTRY SYMBOLS
+
+AF — National emblem of Afghanistan (Gold).svg
+Fry1989 eh?
+https://commons.wikimedia.org/wiki/File:National_emblem_of_Afghanistan_(Gold).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+AD — Coat of Arms of Andorra.svg
+Heralder
+https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Andorra.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NZ — Coat of arms of New Zealand.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_New_Zealand.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+BB — Coat of arms of Barbados (2).svg
+Neville C. Connell, director of the Barbados Museum
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Barbados_(2).svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+BE — Great coat of arms of Belgium.svg
+Sodacan , Katepanomegas
+https://commons.wikimedia.org/wiki/File:Great_coat_of_arms_of_Belgium.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+BJ — Coat of arms of Benin.svg
+Tinynanorobots , Fenn-O-maniC
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Benin.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+BF — Coat of arms of Burkina Faso.svg
+F l a n k e r
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Burkina_Faso.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GB — Coat of arms of the United Kingdom (2022, variant 2).svg
+Sodacan; Colohisto; additional file-history contributors Dgp4004, Estar8806, GandalfXLD, Tipinen and Lwlvlad931
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_United_Kingdom_(2022%2C_variant_2).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GY — Coat of arms of Guyana.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Guyana.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GM — Coat of arms of The Gambia.svg
+Original design by Nicholas Potin , vectorised by user:Fenn-O-maniC
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_The_Gambia.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GN — Coat of arms of Guinea.svg
+Turn685
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Guinea.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GW — Emblem of Guinea-Bissau.svg
+DzWiki
+https://commons.wikimedia.org/wiki/File:Emblem_of_Guinea-Bissau.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+GD — Coat of arms of Grenada.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Grenada.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+DK — National coat of arms of Denmark.svg
+Galico~commonswiki; elements by Sodacan; subsequent contributors Ssolbergj and Great Brightstar
+https://commons.wikimedia.org/wiki/File:National_coat_of_arms_of_Denmark.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+DM — Coat of arms of Dominica.svg
+FOX 52; FXXX
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Dominica.svg
+Attribution: https://commons.wikimedia.org/wiki/Template:Attribution_only_license
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+VU — Coat of arms of Vanuatu.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Vanuatu.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+JP — Kamon of the Imperial House of Japan.svg
+Fonsecafrancesco04
+https://commons.wikimedia.org/wiki/File:Kamon_of_the_Imperial_House_of_Japan.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+CA — Royal Coat of arms of Canada.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Royal_Coat_of_arms_of_Canada.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+QA — Emblem of Qatar-2022.svg
+9BBWMJ
+https://commons.wikimedia.org/wiki/File:Emblem_of_Qatar-2022.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+KE — Coat of arms of Kenya (Official).svg
+Ashiriz
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kenya_(Official).svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+CY — Coat of arms of Cyprus (2006).svg
+Borb , modified by User:Di (they-them)
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Cyprus_(2006).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+CD — Coat of arms of the Democratic Republic of the Congo (black spear).svg
+SVG-image-maker
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Democratic_Republic_of_the_Congo_(black_spear).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+CI — Coat of arms of Ivory Coast (2).svg
+Republic of Côte d'Ivoire vectored by FOX 52
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Ivory_Coast_(2).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+LA — Emblem of Laos (2025-).svg
+This vector image includes elements that have been taken or adapted from this file:
+https://commons.wikimedia.org/wiki/File:Emblem_of_Laos_(2025-).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+LB — Coat of arms of Lebanon.svg
+Zscout370 at en.wikipedia.org
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Lebanon.svg
+CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+LI — Staatswappen-Liechtensteins.svg
+SVG Added Ramos
+https://commons.wikimedia.org/wiki/File:Staatswappen-Liechtensteins.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+LU — Greater coat of arms of the grand-duchy of Luxembourg.svg
+Katepanomegas
+https://commons.wikimedia.org/wiki/File:Greater_coat_of_arms_of_the_grand-duchy_of_Luxembourg.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+MU — Coat of arms of Mauritius.svg
+User:Escondites
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Mauritius.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+MW — Coat of arms of Malawi.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Malawi.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+MC — Coat of arms of Monaco.svg
+Denelson83; Echando una mano; subsequent contributors Fry1989 and Smasongarrison
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Monaco.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NP — Emblem of Nepal.svg
+Biplab Anand
+https://commons.wikimedia.org/wiki/File:Emblem_of_Nepal.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NE — Coat of arms of Niger.svg
+Pbroks13 ( talk )
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Niger.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NG — Coat of arms of Nigeria.svg
+Lumia1234
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nigeria.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NL — State coat of arms of the Netherlands.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:State_coat_of_arms_of_the_Netherlands.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+NI — Coat of arms of Nicaragua.svg
+C records
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Nicaragua.svg
+Attribution: https://commons.wikimedia.org/wiki/Template:Attribution_only_license
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+OM — National emblem of Oman.svg
+Government of Oman; vector file-history contributors PaD, Fry1989, VexilAlpaca, Undertiago, WessyTheBoy54, NorthTension, Nihuo14120523, Kaim Amin and Abu Isa
+https://commons.wikimedia.org/wiki/File:National_emblem_of_Oman.svg
+OGL-om 1.0: https://www.oman.om/en/home-footer-level/faq/open-government-licence-oman
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+PG — National emblem of Papua New Guinea.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:National_emblem_of_Papua_New_Guinea.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+WS — Public Seal of Samoa.svg
+Simitukidia
+https://commons.wikimedia.org/wiki/File:Public_Seal_of_Samoa.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+ZA — Coat of arms of South Africa (heraldic).svg
+Echando una mano
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_South_Africa_(heraldic).svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+ST — Coat of arms of São Tomé and Príncipe.svg
+Josedar
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+SN — Coat of arms of Senegal.svg
+Xavi Garcia
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Senegal.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+VC — Coat of arms of Saint Vincent and the Grenadines.svg
+Prez001
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+KN — Coat of Arms of Saint Kitts and Nevis.svg
+BaronJaguar
+https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Saint_Kitts_and_Nevis.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+LC — Coat of arms of Saint Lucia.svg
+Diafora
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Saint_Lucia.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+SL — Coat of arms of Sierra Leone.svg
+Lion héraldique.svg - Bluebear2 Heraldique meuble lion passant.svg - Rinaldum , S@m , Zigeuner Coat of arms of Haiti (1964-1986).svg - Thommy9 derivative work: Yuma
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Sierra_Leone.svg
+CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+SG — Coat of arms of Singapore.svg
+Ahk Heraldry
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Singapore.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+SB — Coat of arms of the Solomon Islands.svg
+Prez001
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_the_Solomon_Islands.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TZ — Coat of arms of Tanzania.svg
+FischX
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tanzania.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TG — Armoiries du Togo.svg
+Edem Fiadjoe
+https://commons.wikimedia.org/wiki/File:Armoiries_du_Togo.svg
+CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TT — Coat of arms of Trinidad and Tobago (2025).svg
+BaronJaguar
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Trinidad_and_Tobago_(2025).svg
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TV — Coat of arms of Tuvalu.svg
+Denelson83
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tuvalu.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TN — Coat of arms of Tunisia.svg
+FXXX
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tunisia.svg
+CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+UG — Coat of arms of Uganda.svg
+Sodacan
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Uganda.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+FJ — Coat of arms of Fiji.svg
+Simi Tukidia
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Fiji.svg
+CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+TD — Coat of arms of Chad.svg
+Milenioscuro
+https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Chad.svg
+CC BY 3.0: https://creativecommons.org/licenses/by/3.0
+SVG rasterized, scaled and centered on a transparent 128 × 128 PNG canvas.
+
+
+OM flag — File:Flag of Oman.svg
+Government of Oman; vector file-history contributors PaD, Fry1989, VexilAlpaca, Undertiago, WessyTheBoy54, NorthTension, Nihuo14120523, Kaim Amin and Abu Isa
+https://commons.wikimedia.org/wiki/File:Flag_of_Oman.svg
+OGL-om 1.0: https://www.oman.om/en/home-footer-level/faq/open-government-licence-oman
+Original SVG converted to PNG.
+
+
+MAP DATA
+
+Natural Earth vector/raster data: public domain. https://www.naturalearthdata.com/about/terms-of-use/
+
+© ESA WorldCover project 2021 / Contains modified Copernicus Sentinel data (2021) processed by ESA WorldCover consortium. ESA WorldCover 10 m 2021 v200: Zanaga et al. (2022), https://doi.org/10.5281/zenodo.7254221. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Classified land cover has been sampled, reprojected, recolored and combined with elevation shading in the app’s offline textures.
+
+Terrain Tiles / Tilezen Joerd. Elevation data providers and their individual attribution statements: https://github.com/tilezen/joerd/blob/master/docs/attribution.md. The full provider statements are included in Terrain-attribution.md. Elevation tiles have been sampled, projected and converted to offline shaded relief.
+
+geoBoundaries gbOpen: Maldives and Vatican City boundaries, CC BY 4.0. Runfola et al. (2020), geoBoundaries: A global database of political administrative boundaries, PLOS ONE 15(4): e0231866, https://doi.org/10.1371/journal.pone.0231866. https://www.geoboundaries.org/api.html. Geometry has been reprojected, simplified and fitted to the app’s educational panels.
+
+Selected boundary geometry: © United Nations, UNITAR/UNOSAT World Countries service. https://unosatgis.cern.ch/rapidmapping/rest/services/World_Countries/WorldCountry/MapServer/0. Boundaries and designations do not imply official endorsement or acceptance. A source acknowledgement is not a substitute for any required reuse permission.
+
+FONTS AND ICONS
+
+Noto Sans Georgian ExtraBold
+Copyright 2019 Google LLC. All Rights Reserved.
+Monotype Design Team; Akaki Razmadze
+SIL Open Font License 1.1; full text: OFL-1.1.txt
+
+Roboto Black
+Copyright 2011 Google Inc. All Rights Reserved.
+Christian Robertson
+Apache License 2.0; full text: Apache-2.0.txt
+
+Ionicons / Expo Vector Icons
+Copyright (c) 2015 Joel Arvidsson; Copyright (c) 2020 650 Industries.
+
+MIT; full text: Expo-Vector-Icons-MIT.txt
